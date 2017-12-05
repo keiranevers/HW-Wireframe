@@ -3,7 +3,7 @@ body {
                         padding: 0;
                         font-family: "Arial","Helvetica Neue",Helvetica,serif;
                         background-color: #777;
-                        width: 100%;
+                        width: 960px;
                         object-position: center;
                         color:   #777;
  
@@ -23,8 +23,8 @@ header, nav {
             font-size: 18px;
             color: #424242;
             text-align: center;
-            width: 800px;
-            margin:            1%;
+            width: 820px;
+            margin: 1%;
             padding: 3em;
            
 }
@@ -35,7 +35,7 @@ header, nav {
             font-size: 18px;
             color: #424242;
             text-align: center;       
-            height: 195px;
+            height: 495px;
             width:  44%;
             margin: 1%;
             float: left;
@@ -49,6 +49,7 @@ header, nav {
             padding: 5px 10px 5px 10px;
 }
 .box {
+            display: block;
             clear: both;
             background-color: #ebebeb;
             color: #424242;
@@ -63,7 +64,7 @@ header, nav {
             font-size: 18px;
             color: #424242;
             text-align: center;       
-            width:  22%;
+            width:  320px;
             margin: 1%;
             float: left;
             height: 195px;
